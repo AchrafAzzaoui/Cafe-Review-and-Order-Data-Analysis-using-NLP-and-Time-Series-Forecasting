@@ -7,7 +7,7 @@ A take-home technical assessment completed for Levytation's interview process. T
 * **Languages:** Python 3.x
 * **Data Processing:** Pandas, NumPy
 * **Time Series:** Prophet
-* **NLP:** spaCy
+* **NLP:** spaCy, Transformers
 * **Visualization:** Matplotlib, Seaborn
 * **Development:** Jupyter Notebooks
 
