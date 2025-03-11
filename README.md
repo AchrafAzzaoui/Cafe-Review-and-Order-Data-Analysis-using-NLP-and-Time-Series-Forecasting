@@ -2,7 +2,7 @@
 
 
 ## 🎯 Project Overview
-This project analyzes six months of cafe operations data to gain insights into sales trends, customer sentiment, and to build basic forecasting models.  The analysis was performed using Python and several key libraries. The project showcases data cleaning, exploratory data analysis (EDA), time series forecasting, and natural language processing (NLP) techniques.
+A take-home technical assessment completed for Levytation's interview process. The project analyzes six months of cafe operations data using Python, focusing on sales trends, customer sentiment, and basic forecasting. Working with real-world messy data, I extracted meaningful insights and presented clear recommendations through various analyses.
 
 ## 📊 Features
 * **Data Cleaning & Preprocessing:**  Handles missing values, standardizes data formats, and prepares data for analysis.
